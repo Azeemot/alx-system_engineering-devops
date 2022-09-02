@@ -1,1 +1,1 @@
-a scriptbthat prints the type of the file named iamafile
+a symbolink link is created
