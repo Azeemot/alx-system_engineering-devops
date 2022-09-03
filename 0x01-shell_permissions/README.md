@@ -1,1 +1,1 @@
-sets the mode of the file same as another
+This is a project on shell permission
