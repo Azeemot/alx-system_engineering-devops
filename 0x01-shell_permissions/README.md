@@ -1,1 +1,1 @@
-The shell script that adds execute permission to the owner of the file
+multiple permissions for owner and groups, read only permission for users
