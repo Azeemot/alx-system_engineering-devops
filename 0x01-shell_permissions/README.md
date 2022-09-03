@@ -1,1 +1,1 @@
-multiple permissions for owner and groups, read only permission for users
+a script that adds execution permission to the owner, group owner and the other users
