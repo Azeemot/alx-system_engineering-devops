@@ -1,1 +1,1 @@
-a hell script that creates a file
+a script that creates a file
