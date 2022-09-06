@@ -1,1 +1,1 @@
-a script thst writes into a file the result of a command
+a script that duplicates the last lime of the file iacta
