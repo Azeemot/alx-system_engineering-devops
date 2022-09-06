@@ -1,1 +1,1 @@
-a script that duplicates the last lime of the file iacta
+a script that deletes all of the regular files
