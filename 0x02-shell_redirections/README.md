@@ -1,1 +1,1 @@
-a script that creates a file
+a script thst creates a file
