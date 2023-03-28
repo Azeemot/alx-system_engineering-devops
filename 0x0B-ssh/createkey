@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script creates an RSA key pair
+# This script creates an RSA key pair...
 if [ ! -d ~/.ssh ]; then
     mkdir ~/.ssh
 fi
